@@ -1,0 +1,129 @@
+{
+  "totalFrames": 64,
+  "angleStepDeg": 5.625,
+  "centerFrame": "center.webp",
+  "faceCenter": {
+    "x": 0.5,
+    "y": 0.4444
+  },
+  "backgroundColor": {
+    "hex": "#940c0d",
+    "rgb": [
+      148,
+      12,
+      13
+    ],
+    "glowCenter": "#c01f22"
+  },
+  "compassDirections": {
+    "RIGHT": {
+      "frameIndex": 0,
+      "videoFrame": 70,
+      "angleDeg": 0
+    },
+    "DOWN_RIGHT": {
+      "frameIndex": 8,
+      "videoFrame": 86,
+      "angleDeg": 45
+    },
+    "DOWN": {
+      "frameIndex": 16,
+      "videoFrame": 108,
+      "angleDeg": 90
+    },
+    "DOWN_LEFT": {
+      "frameIndex": 24,
+      "videoFrame": 134,
+      "angleDeg": 135
+    },
+    "LEFT": {
+      "frameIndex": 32,
+      "videoFrame": 156,
+      "angleDeg": 180
+    },
+    "UP_LEFT": {
+      "frameIndex": 40,
+      "videoFrame": 174,
+      "angleDeg": 225
+    },
+    "UP": {
+      "frameIndex": 48,
+      "videoFrame": 182,
+      "angleDeg": 270
+    },
+    "UP_RIGHT": {
+      "frameIndex": 56,
+      "videoFrame": 190,
+      "angleDeg": 315
+    },
+    "CENTER": {
+      "videoFrame": 234
+    }
+  },
+  "frameMap": [
+    70,
+    72,
+    74,
+    75,
+    82,
+    83,
+    84,
+    85,
+    86,
+    88,
+    91,
+    94,
+    97,
+    100,
+    105,
+    107,
+    108,
+    111,
+    114,
+    117,
+    120,
+    123,
+    130,
+    132,
+    134,
+    137,
+    140,
+    143,
+    145,
+    150,
+    152,
+    154,
+    156,
+    158,
+    161,
+    163,
+    166,
+    168,
+    171,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    192,
+    194,
+    54,
+    56,
+    58,
+    62,
+    66
+  ]
+}
